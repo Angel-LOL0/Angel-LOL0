@@ -5,8 +5,8 @@
 </div>
 <h2 id="sobre-mi">💭 Sobre mí</h2>
 <pre><code class="language-javascript">const developer = {
-    nombre: &quot;Tu Nombre&quot;,
-    ubicación: &quot;🌎 Tu Ciudad, País&quot;,
+    nombre: &quot;Angel Salvador&quot;,
+    ubicación: &quot;🌎 Estado de México, México&quot;,
     código: [&quot;JavaScript&quot;, &quot;Python&quot;, &quot;TypeScript&quot;],
     tecnologías: {
         frontend: [&quot;React&quot;, &quot;Astro&quot;],
