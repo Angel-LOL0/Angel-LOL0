@@ -44,7 +44,7 @@
 </div>
 <h2 id="proyectos-destacados">🚀 Proyectos Destacados</h2>
 <div align="center">
-<p><a href="https://github.com/TU_USUARIO/PROYECTO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Angel-LOL0&amp;repo=Bajo-del-Radar&amp;theme=catppuccin_mocha&amp;bg_color=1E1E2E&amp;title_color=CBA6F7&amp;icon_color=F5C2E7&amp;text_color=CDD6F4&amp;border_color=6C7086" alt="Proyecto 1" /></a></p>
+<p><a href="https://github.com/Angel-LOL0/Bajo-del-Radar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Angel-LOL0&amp;repo=Bajo-del-Radar&amp;theme=catppuccin_mocha&amp;bg_color=1E1E2E&amp;title_color=CBA6F7&amp;icon_color=F5C2E7&amp;text_color=CDD6F4&amp;border_color=6C7086" alt="Proyecto 1" /></a></p>
 </div>
 <h2 id="conecta-conmigo">📫 Conecta conmigo</h2>
 <div align="center">
