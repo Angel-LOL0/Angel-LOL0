@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="600px" />
 <h1 id="hola-soy-angel-salvador">¡Hola! Soy Angel Salvador</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=CBA6F7&center=true&vCenter=true&random=false&width=435&lines=Desarrollador+Full+Stack;Amante+del+Código+Limpio;Siempre+Aprendiendo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=CBA6F7&center=true&vCenter=true&random=true&width=435&lines=Desarrollador+Full+Stack;Amante+del+C%C3%B3digo+Limpio;Siempre+Aprendiendo)](https://git.io/typing-svg)
 </div>
 <h2 id="sobre-mi">💭 Sobre mí</h2>
 <pre><code class="language-javascript">const developer = {
