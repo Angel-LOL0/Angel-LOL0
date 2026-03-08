@@ -49,7 +49,7 @@
 <h2 id="conecta-conmigo">📫 Conecta conmigo</h2>
 <div align="center">
 <a href="https://x.com/angelsa70784544"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=CDD6F4&amp;labelColor=89DCEB" alt="X/Twitter" /></a>
-<a href="[https://tu-portfolio.com](https://angel-portfolio-web.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=CDD6F4&amp;labelColor=F5C2E7" alt="Portfolio" /></a>
+<a href="https://angel-portfolio-web.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=CDD6F4&amp;labelColor=F5C2E7" alt="Portfolio" /></a>
 <a href="mailto:angel.salvador.ceroseis@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=CDD6F4&amp;labelColor=F38BA8" alt="Email" /></a></p>
 </div>
 <hr />
