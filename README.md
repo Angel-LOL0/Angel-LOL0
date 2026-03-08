@@ -6,7 +6,7 @@
 <h2 id="sobre-mi">💭 Sobre mí</h2>
 <pre><code class="language-javascript">const developer = {
     nombre: &quot;Angel Salvador&quot;,
-    ubicación: &quot;🌎 Estado de México, México&quot;,
+    ubicación: &quot;🌎 Estado de México, México&saquot;,
     código: [&quot;JavaScript&quot;, &quot;Python&quot;, &quot;TypeScript&quot;],
     tecnologías: {
         frontend: [&quot;React&quot;, &quot;Astro&quot;],
@@ -48,10 +48,9 @@
 </div>
 <h2 id="conecta-conmigo">📫 Conecta conmigo</h2>
 <div align="center">
-<p><a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=CDD6F4&amp;labelColor=89B4FA" alt="LinkedIn" /></a>
-<a href="https://twitter.com/tu-usuario"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=CDD6F4&amp;labelColor=89DCEB" alt="Twitter" /></a>
-<a href="https://tu-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=CDD6F4&amp;labelColor=F5C2E7" alt="Portfolio" /></a>
-<a href="mailto:tu-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=CDD6F4&amp;labelColor=F38BA8" alt="Email" /></a></p>
+<a href="https://x.com/angelsa70784544"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=CDD6F4&amp;labelColor=89DCEB" alt="X/Twitter" /></a>
+<a href="[https://tu-portfolio.com](https://angel-portfolio-web.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=CDD6F4&amp;labelColor=F5C2E7" alt="Portfolio" /></a>
+<a href="mailto:angel.salvador.ceroseis@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=CDD6F4&amp;labelColor=F38BA8" alt="Email" /></a></p>
 </div>
 <hr />
 <div align="center">
